@@ -2,9 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* main - main block */
-
 /**
+ * main - main block
  * Work on getting a random number and print the number
  * if it is positive, negative, or zero
  * Return : 0
