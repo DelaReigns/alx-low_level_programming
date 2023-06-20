@@ -1,1 +1,1 @@
-#My first programming script
+Learning to code
