@@ -3,9 +3,9 @@
 /**
  * main - main entry
  *
- * Description: prin _putchar
+ * Description: print _putchar
  *
- * Return: 0
+ * Return: 0 
  */
 
 int main(void)
