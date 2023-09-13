@@ -1,0 +1,9 @@
+cking objects: 100% (6/6), 1.32 KiB | 5.00 KiB/s, done.
+From https://github.com/DelaReigns/alx-low_level_programming
+   6ef86a7..e8f0cdf  master     -> origin/master
+Updating 6ef86a7..e8f0cdf
+Fast-forward
+ 0x09-static_libraries/create_static_lib.sh |   4 ----
+ 0x09-static_libraries/liball.a             | Bin 31050 -> 0 bytes
+ 2 files changed, 4 deletions(-)
+
